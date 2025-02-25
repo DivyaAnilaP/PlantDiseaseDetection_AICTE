@@ -1,2 +1,4 @@
 # PlantDiseaseDetection_AICTE
-Training on Plant Disease Classification
+Training on Plant Disease Classification for AICTE Internship Cycle-4
+
+
